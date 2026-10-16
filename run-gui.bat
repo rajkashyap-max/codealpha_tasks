@@ -1,7 +1,7 @@
 @echo off
-if not exist bin\com\hotel\Main.class (
+if not exist HotelReservationSystem.jar (
     echo Building project first...
     call build.bat
 )
 
-java -cp bin com.hotel.Main --gui
+java -jar HotelReservationSystem.jar --gui

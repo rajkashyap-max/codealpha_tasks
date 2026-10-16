@@ -1,4 +1,4 @@
-# Hotel Reservation System (`task_1`)
+# Hotel Reservation System (`task_2`)
 
 A robust, enterprise-grade Hotel Reservation and Management System developed in **Java** following strict **Object-Oriented Programming (OOP)** principles and **File I/O Persistence**.
 
@@ -29,7 +29,7 @@ This project fulfills all requirements for the **Hotel Reservation System**:
 ## 📁 Directory Structure
 
 ```
-task_1/
+task_2/
 ├── src/
 │   └── com/
 │       └── hotel/

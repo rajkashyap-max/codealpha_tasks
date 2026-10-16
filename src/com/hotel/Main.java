@@ -9,7 +9,7 @@ import java.awt.GraphicsEnvironment;
 import java.util.Scanner;
 
 /**
- * Application Entry Point for Hotel Reservation System (Task 1).
+ * Application Entry Point for Hotel Reservation System (Task 2).
  */
 public class Main {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class Main {
         boolean hasGraphics = !GraphicsEnvironment.isHeadless();
 
         System.out.println("================================================================================");
-        System.out.println("             WELCOME TO HOTEL RESERVATION SYSTEM (TASK 1)                       ");
+        System.out.println("             WELCOME TO HOTEL RESERVATION SYSTEM (TASK 2)                       ");
         System.out.println("================================================================================");
         System.out.println("Select how you would like to run the application:");
         System.out.println("  1. Interactive Command Line Interface (CLI)");
