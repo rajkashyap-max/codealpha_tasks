@@ -1,0 +1,13 @@
+# Room Format: roomNumber|category|pricePerNight|capacity|isUnderMaintenance
+101|STANDARD|80.00|2|false
+102|STANDARD|80.00|2|false
+103|STANDARD|85.00|2|false
+104|STANDARD|85.00|2|false
+105|STANDARD|90.00|3|false
+201|DELUXE|150.00|2|false
+202|DELUXE|150.00|3|false
+203|DELUXE|160.00|3|false
+204|DELUXE|175.00|4|false
+301|SUITE|300.00|4|false
+302|SUITE|320.00|4|false
+303|SUITE|350.00|5|false
